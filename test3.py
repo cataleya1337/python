@@ -8,4 +8,3 @@ root.withdraw()  # cache la fenêtre principale
 
 messagebox.showinfo(":)", ":)")
 
-root.mainloop()
